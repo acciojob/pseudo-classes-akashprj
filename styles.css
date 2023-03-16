@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body {
+  background-color: skyblue;
+}
+
+p:first-child {
+  background-color: black;
+}
+
+:root {
+  font-size: 20px;
+}
+
+li:nth-child(1) {
+  background-color: white;
+}
+
+li:nth-child(2) {
+  background-color: lightgray;
+}
+
+li:nth-child(3) {
+  background-color: pink;
+}
+
+p:last-child {
+  color: red;
+}
